@@ -6,6 +6,6 @@ Based on [Opencore](https://github.com/acidanthera/OpenCorePkg) 0.5.9
 
 #### What works
 * iGPU - Intel HD 630
-* Audio
+* Audio - Realtek ALC887
 * All USB Ports
 * Ethernet
